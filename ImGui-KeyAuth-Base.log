@@ -1,0 +1,38 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_shadow.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(1152,50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(1154,50): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(1162,47): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(1164,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(1172,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(1174,49): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(3127,133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6461,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6463,48): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6471,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6473,48): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6481,50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6483,50): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6491,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\imgui\imgui_widgets.cpp(6493,49): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\protection\protection.h(66,12): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\main\main.cpp(170,56): warning C4390: ';': empty controlled statement found; is this the intent?
+  intel_driver.cpp
+  kdmapper.cpp
+  portable_executable.cpp
+  service.cpp
+  utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\mapper\intel_driver.cpp(261): warning C4715: 'intel_driver::WriteToReadOnlyMemory': not all control paths return a value
+C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\main\main.cpp(237): warning C4715: 'WinMain': not all control paths return a value
+  All 2446 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ImGui-KeyAuth-Base.vcxproj -> C:\Users\Anwender\Downloads\ImGui-KeyAuth-Base-main\ImGui-KeyAuth-Base-main\x64\Release\ImGui-KeyAuth-Base.exe
